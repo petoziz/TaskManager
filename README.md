@@ -8,7 +8,7 @@
 Jednoduchá webová aplikácia na správu úloh vytvorená pomocou **Spring Boot**, **Thymeleaf** a **Bootstrap 5**.  
 A simple web application for managing tasks built with **Spring Boot**, **Thymeleaf**, and **Bootstrap 5**.
 
-![Screenshot aplikácie](screenshot.png)
+![Screenshot aplikácie](images/screenshot.png)
 
 ## Funkcie / Features
 
@@ -33,8 +33,6 @@ A simple web application for managing tasks built with **Spring Boot**, **Thymel
 ```bash
 ./mvnw spring-boot:run
 ```
-
-
 Aplikácia sa spustí na: http://localhost:8080
 The app will be running at: http://localhost:8080
 
@@ -50,3 +48,7 @@ com.example
 └── TaskManagerApplication.java
 ```
 
+## Licencia / License
+
+Tento projekt je určený ako ukážkový – môžeš ho voľne použiť alebo upraviť.  
+This is a sample project – feel free to use or modify it.
